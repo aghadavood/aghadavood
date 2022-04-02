@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning natural language processing
 - 💞️ I’m looking to collaborate on NLP projects
-- 📫 rech me on twitter @sjolfaie
+- 📫 reach me on twitter @sjolfaie
  -     your welcome 
 
 <!---
